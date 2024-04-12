@@ -1,6 +1,7 @@
 # 常微分方程式-自作ノート
 
 Typstに慣れることと，受けた講義の内容を整理することを目的とした自分用のプロジェクトです．
+
 This is a project for myself to familiarize myself with Typst and to organize the content of the lectures I have attended.
 
 # Note
